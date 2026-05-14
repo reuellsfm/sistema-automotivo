@@ -32,9 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-### Markdown ###
-*.md
-
 ### Logs ###
 *.log
 
