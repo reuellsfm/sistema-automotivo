@@ -2,7 +2,8 @@
 
 Sistema CRUD para gerenciamento de estoque de veículos, desenvolvido como projeto acadêmico na UNIFECAF.
 
-**Aluno:** Reuel S. 
+**Aluno:** Reuel S.
+
 **Curso:** Análise e Desenvolvimento de Sistemas — UNIFECAF
 
 ---
